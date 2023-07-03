@@ -1,3 +1,14 @@
+
+body{
+    background-color: salmon;
+}
+
 ul{
     list-style-type: none;
+}
+
+tr:hover{
+    background-color: white;
+    transition: all 1s;
+    color: magenta;
 }
