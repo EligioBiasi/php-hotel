@@ -7,7 +7,7 @@ ul{
     list-style-type: none;
 }
 
-tr:hover{
+tr.change:hover{
     background-color: white;
     transition: all 1s;
     color: magenta;

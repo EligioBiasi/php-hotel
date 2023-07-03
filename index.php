@@ -72,7 +72,7 @@
                 </thead>
                 <tbody>
                     <?php foreach($hotels as $singleHotel){?>
-                        <tr>
+                        <tr class="change">
                                 <?php 
                                         $hotelName = $singleHotel['name'];
                                         $hotelDescription = $singleHotel['description'];
